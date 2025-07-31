@@ -1,33 +1,37 @@
-# SUT DSP Project - Fall 2022, 1401-1:
-Digital Signal Processing Final Project. (in Python)
+# 📋 SUT DSP Project – Fall 2022 (1401-1)  
+Digital Signal Processing Final Project (in Python)
 
-Course Instructor: [Prof. Manzuri](http://sharif.ir/~manzuri/)
+📍 Sharif University of Technology (SUT)  
+👨‍🏫 Instructor: [Prof. Manzuri](http://sharif.ir/~manzuri/)  
+📘 Reference: *Digital Signal Processing* – Oppenheim  
+🔗 [DSP First – Georgia Tech](https://dspfirst.gatech.edu)
 
-Digital Signal Processing: Oppenheim
+---
 
-https://dspfirst.gatech.edu
+## 🧠 Topics Covered
 
+### Q1: Fourier Series Coefficients and Spectrum
+- Spectrogram  
+- Chirp  
+- Waterfall Diagram  
+- Short-Time Fourier Series
 
-Q1: Fourier Series Coefficients and Spectrum
+### Q2: Fourier Transform
+- Amplitude  
+- Phase
 
-    Spectrogram
-    Chirp
-    Waterfall Diagram
-    Short-time Fourier Series
+### Q3: FFT
+- Difference between `conv` and `ifft(fft)`
 
-Q2: Fourier Transform 
+### Q4: Sampling
+- Upsampling  
+- Downsampling
 
-    Amplitude
-    Phase
+### Q5: Z-Transform
 
-Q3: FFT
+### Q6: Channel Equalization
+- Noise Cancelling
 
-    The Difference Between 'conv' & 'ifft(fft)'
+---
 
-Q4: Upsampling and Downsampling
-
-Q5: Z-Transform
-
-Q6: Channel Equalization
-
-    Noise Cancelling
+🛠️ Tools: Python, NumPy, SciPy, Matplotlib
